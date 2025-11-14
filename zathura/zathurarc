@@ -1,0 +1,15 @@
+set font "Fira Code 15"
+
+set default-bg "#232323"
+
+set default-fg "#aFaFaF"
+
+set inputbar-bg "#232323"
+set inputbar-fg "#aFaFaF"
+
+set statusbar-bg "#191919"
+set statusbar-fg "#afafaf"
+set highlight-color "#0066FF"
+
+# setting database to sqlite (default: plain)
+set database sqlite
